@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:37:44.913Z",
+  "updated_at": "2026-10-30T22:47:33.792Z",
   "applications": [
     {
       "id": "app-c39fe226-f0cf-4645-bd45-156e6474be1c",
@@ -112,6 +112,42 @@
       },
       "category_ids": [
         "cat-c49e641a-7e87-4916-9978-c725886e8f7f",
+        "cat-be7903c2-91e3-4509-8a43-f18f88534390"
+      ],
+      "enabled": true,
+      "featured": false,
+      "uses_wifi": false,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-04d7669d-9755-404f-8b46-6f390bf41473",
+      "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/tetris-manifest.json",
+      "manifest": {
+        "name": "Tetris ES32Lab",
+        "developer": "ES Developer",
+        "version": "1.0.0",
+        "version_date": "2026-10-27",
+        "description": "Exemplo oficial da LIB ES32Lab com jogo Tetris no display TFT, controlado pelo teclado analogico da placa. Codigo-fonte disponivel para download no botão Repositório.",
+        "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/tetris-manifest.json",
+        "thumbnail_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/tetris-thumb.jpg",
+        "video_url": null,
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/Tetris/Tetris.ino",
+        "full_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/tetris-full.bin",
+        "full_sha256": "8c4ba985c65b68257ea6ef47a3fa4aa803c30cfd076643e5c83c208ace939c8f",
+        "keywords": [
+          "ES32Lab",
+          "Tetris",
+          "Jogo",
+          "TFT",
+          "Teclado Analogico",
+          "Exemplo"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
         "cat-be7903c2-91e3-4509-8a43-f18f88534390"
       ],
       "enabled": true,
