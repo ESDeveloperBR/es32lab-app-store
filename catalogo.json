@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-30T22:37:44.913Z",
+  "applications": [
+    {
+      "id": "app-c39fe226-f0cf-4645-bd45-156e6474be1c",
+      "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes/releases/latest/download/manifest.json",
+      "manifest": {
+        "name": "ES32Lab nas Eleições 2026",
+        "developer": "ES Developer",
+        "version": "2.5.10",
+        "version_date": "2026-10-30",
+        "description": "Acompanhe dados públicos das Eleições 2026 disponibilizados pelo TSE diretamente na ES32Lab.",
+        "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes/releases/latest/download/manifest.json",
+        "thumbnail_url": "https://images.tcdn.com.br/img/editor/up/1273877/abertura_oficial_6ac66675cd75d.jpg",
+        "video_url": "https://www.youtube.com/watch?v=U_iIK7eju4Y&list=PLpVVewmHgD_LDEXAvsAxDWjS-3XCfZlZi",
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes",
+        "full_url": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes/releases/latest/download/es32lab_eleicoes-full.bin",
+        "full_sha256": "00f5a0738ba467874402cffef822c238b336cddb1574136a2fa6c6d1647d2975",
+        "keywords": [
+          "ES32Lab",
+          "ESP32",
+          "Eleições 2026",
+          "TSE",
+          "Wi-Fi",
+          "OTA",
+          "Arduino IDE"
+        ],
+        "uses_wifi": true
+      },
+      "category_ids": [
+        "cat-2bf20289-2029-43a7-b13b-23c12fed125d"
+      ],
+      "enabled": true,
+      "featured": true,
+      "uses_wifi": true,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-9c2cb679-1c97-46b9-97a2-df1b65fd47cb",
+      "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-Arcade/releases/latest/download/manifest.json",
+      "manifest": {
+        "name": "ES32Lab Arcade",
+        "developer": "ES Developer",
+        "version": "1.4.4",
+        "version_date": "2026-10-28",
+        "description": "Diversos jogos para sua divesão em sua ES32Lab.",
+        "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-Arcade/releases/latest/download/manifest.json",
+        "thumbnail_url": "https://github.com/ESDeveloperBR/ES32Lab-Arcade/releases/latest/download/es32lab_arcade-thumb.jpg",
+        "video_url": "https://www.youtube.com/watch?v=U_iIK7eju4Y&list=PLpVVewmHgD_LDEXAvsAxDWjS-3XCfZlZi",
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab-Arcade",
+        "full_url": "https://github.com/ESDeveloperBR/ES32Lab-Arcade/releases/latest/download/es32lab_arcade-full.bin",
+        "full_sha256": "134e8372b9a6abb4f870152b1bcf9124899dd658ba74ed3e62d6e4b75d95316c",
+        "keywords": [
+          "ES32Lab",
+          "Arcade",
+          "jogos",
+          "games",
+          "ESP32",
+          "retro gaming",
+          "game console",
+          "TFT",
+          "WiFi",
+          "Tetris",
+          "Space Invader",
+          "Snake",
+          "Minhoquinha",
+          "Enduro Lab",
+          "Frog Adventure",
+          "ES32 Lab Boxe",
+          "Rachacuca"
+        ],
+        "uses_wifi": true
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3"
+      ],
+      "enabled": true,
+      "featured": false,
+      "uses_wifi": true,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-4cbb317d-bb6d-495c-8100-fce9c7e20a40",
+      "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/camera_display_tft-manifest.json",
+      "manifest": {
+        "name": "Camera no Display TFT",
+        "developer": "ES Developer",
+        "version": "1.0.0",
+        "version_date": "2026-10-27",
+        "description": "Exemplo oficial da LIB ES32Lab que exibe imagens da camera OV2640 no display TFT. Codigo-fonte disponivel para download no botão Repositório.",
+        "manifest_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/camera_display_tft-manifest.json",
+        "thumbnail_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/camera_display_tft-thumb.jpg",
+        "video_url": null,
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Camera/Camera-DisplayTFT/Camera-DisplayTFT.ino",
+        "full_url": "https://github.com/ESDeveloperBR/ES32Lab-LIB-Examples/releases/latest/download/camera_display_tft-full.bin",
+        "full_sha256": "bc9e96886ab628148dd0609ad034205cdf834b82f2fa0ecc0b8016d66e44c10d",
+        "keywords": [
+          "ES32Lab",
+          "Camera",
+          "OV2640",
+          "Display",
+          "TFT",
+          "Exemplo"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-c49e641a-7e87-4916-9978-c725886e8f7f",
+        "cat-be7903c2-91e3-4509-8a43-f18f88534390"
+      ],
+      "enabled": true,
+      "featured": false,
+      "uses_wifi": false,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    }
+  ]
+}
