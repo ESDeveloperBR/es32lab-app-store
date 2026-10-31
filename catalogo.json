@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:26:36.780Z",
+  "updated_at": "2026-10-31T17:30:11.501Z",
   "applications": [
     {
       "id": "app-04d7669d-9755-404f-8b46-6f390bf41473",
@@ -42,7 +42,7 @@
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
       "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/manifest.json",
       "manifest": {
-        "name": "ES32Lab nas Eleições 2026",
+        "name": "ES32Lab nas Eleições 2026 - 2",
         "developer": "ES Developer",
         "version": "2.5.13",
         "version_date": "2026-10-30",
