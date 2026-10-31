@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:37:05.987Z",
+  "updated_at": "2026-10-31T17:57:58.130Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -35,6 +35,42 @@
       "enabled": true,
       "featured": false,
       "uses_wifi": true,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-0c6711ac-b6ee-45b9-b5d1-61971a75adc6",
+      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-manifest.json",
+      "manifest": {
+        "name": "Tetris ES32Lab",
+        "developer": "ES Developer",
+        "version": "1.0.0",
+        "version_date": "2026-10-27",
+        "description": "Exemplo oficial da LIB ES32Lab com jogo Tetris no display TFT, controlado pelo teclado analogico da placa. Codigo-fonte disponivel para download no botão Repositório.",
+        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-manifest.json",
+        "thumbnail_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-thumb.jpg",
+        "video_url": "https://www.youtube.com/@esdeveloperbr",
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/Tetris/Tetris.ino",
+        "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-full.bin",
+        "full_sha256": "8c4ba985c65b68257ea6ef47a3fa4aa803c30cfd076643e5c83c208ace939c8f",
+        "keywords": [
+          "ES32Lab",
+          "Tetris",
+          "Jogo",
+          "TFT",
+          "Teclado Analogico",
+          "Exemplo"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
+        "cat-be7903c2-91e3-4509-8a43-f18f88534390"
+      ],
+      "enabled": true,
+      "featured": true,
+      "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
       "details_url": null
     }
