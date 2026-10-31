@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:17:01.835Z",
+  "updated_at": "2026-10-31T17:26:36.780Z",
   "applications": [
     {
       "id": "app-04d7669d-9755-404f-8b46-6f390bf41473",
@@ -39,15 +39,15 @@
       "details_url": null
     },
     {
-      "id": "app-1bd06b05-9434-4ceb-bc34-89f35384a26f",
-      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/refs/heads/main/dist/manifest.json",
+      "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
+      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/manifest.json",
       "manifest": {
         "name": "ES32Lab nas Eleições 2026",
         "developer": "ES Developer",
         "version": "2.5.13",
         "version_date": "2026-10-30",
         "description": "Acompanhe dados públicos das Eleições 2026 disponibilizados pelo TSE diretamente na ES32Lab.",
-        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/refs/heads/main/dist/manifest.json",
+        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/manifest.json",
         "thumbnail_url": "https://images.tcdn.com.br/img/editor/up/1273877/abertura_oficial_6ac66675cd75d.jpg",
         "video_url": "https://www.youtube.com/watch?v=U_iIK7eju4Y&list=PLpVVewmHgD_LDEXAvsAxDWjS-3XCfZlZi",
         "website": "https://www.esdeveloper.com.br/",
