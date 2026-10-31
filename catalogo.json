@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T15:41:04.186Z",
+  "updated_at": "2026-10-31T16:28:42.669Z",
   "applications": [
     {
       "id": "app-04d7669d-9755-404f-8b46-6f390bf41473",
@@ -52,7 +52,7 @@
         "video_url": "https://www.youtube.com/watch?v=U_iIK7eju4Y&list=PLpVVewmHgD_LDEXAvsAxDWjS-3XCfZlZi",
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes",
-        "full_url": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes/releases/latest/download/es32lab_eleicoes-full.bin",
+        "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/releases/latest/download/es32lab_eleicoes-full.bin",
         "full_sha256": "d475255368ba7ee4c0fd881e5b095812bf731dff6169b164c61484456f8985cf",
         "keywords": [
           "ES32Lab",
