@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:09:35.292Z",
+  "updated_at": "2026-10-31T19:12:52.758Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -185,6 +185,45 @@
       ],
       "enabled": true,
       "featured": false,
+      "uses_wifi": false,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-3bbf7644-7f04-4baf-a752-3fe4ca6f186e",
+      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-manifest.json",
+      "manifest": {
+        "name": "Frog Adventure ES32Lab",
+        "developer": "ES Developer",
+        "version": "1.0.0",
+        "version_date": "2026-10-29",
+        "description": "Exemplo didatico com a LIB oficial ES32Lab: jogo de aventura em tres fases no display TFT, no qual um sapo captura moscas e evita jacares, com teclado analogico e efeitos sonoros. Codigo-fonte disponivel para download no botao Repositorio.",
+        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-manifest.json",
+        "thumbnail_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-thumb.jpg",
+        "video_url": "https://www.youtube.com/@esdeveloperbr",
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/ForgAdventure/FrogAdventure.ino",
+        "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-full.bin",
+        "full_sha256": "6db17e77dd7a93dea81906ee179afdc03712d8faba3e4cc4a0ee02bd7c948c2f",
+        "keywords": [
+          "ES32Lab",
+          "Frog Adventure",
+          "Sapo",
+          "Jogo",
+          "TFT",
+          "Teclado Analogico",
+          "Buzzer",
+          "Exemplo"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
+        "cat-be7903c2-91e3-4509-8a43-f18f88534390",
+        "cat-0f94a15f-4114-474f-bca7-39f686b51045"
+      ],
+      "enabled": true,
+      "featured": true,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
       "details_url": null
