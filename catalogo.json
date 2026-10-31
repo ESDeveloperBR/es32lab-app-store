@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:18:53.690Z",
+  "updated_at": "2026-10-31T19:20:57.858Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -251,6 +251,45 @@
           "Jogo",
           "TFT",
           "Teclado Analogico",
+          "Exemplo"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
+        "cat-be7903c2-91e3-4509-8a43-f18f88534390",
+        "cat-0f94a15f-4114-474f-bca7-39f686b51045"
+      ],
+      "enabled": true,
+      "featured": false,
+      "uses_wifi": false,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
+    },
+    {
+      "id": "app-7cac08d6-5053-410c-a870-08392fb04138",
+      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-manifest.json",
+      "manifest": {
+        "name": "Space Invader ES32Lab",
+        "developer": "ES Developer",
+        "version": "1.0.0",
+        "version_date": "2026-10-29",
+        "description": "Exemplo oficial da LIB ES32Lab com jogo Space Invader no display TFT. Controle a nave pelo teclado analogico, destrua inimigos, avance de fase e acompanhe pontos e vidas, com efeitos sonoros pelo buzzer. Codigo-fonte disponivel para download no botao Repositorio.",
+        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-manifest.json",
+        "thumbnail_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-thumb.jpg",
+        "video_url": "https://www.youtube.com/@esdeveloperbr",
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/SpaceInvader/SpaceInvader.ino",
+        "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-full.bin",
+        "full_sha256": "002b789256e5eb3b5ac2faafc22af3a48083778a00eaf12f7c1d37e632299cd7",
+        "keywords": [
+          "ES32Lab",
+          "Space Invader",
+          "Jogo",
+          "Nave Espacial",
+          "TFT",
+          "Teclado Analogico",
+          "Buzzer",
           "Exemplo"
         ],
         "uses_wifi": false
