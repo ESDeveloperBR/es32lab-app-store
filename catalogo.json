@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:57:58.130Z",
+  "updated_at": "2026-10-31T18:19:34.448Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -17,7 +17,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/es32lab_eleicoes-full.bin",
-        "full_sha256": "e6d49d834c319495f88315058f69463ae55a050c19a5869ea10227238554a79d",
+        "full_sha256": "b00c98e6c7af35e16b48773cf26b8d6235889306bce275e5b6759a6dd241b042",
         "keywords": [
           "ES32Lab",
           "ESP32",
