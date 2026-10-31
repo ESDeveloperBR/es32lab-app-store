@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:30:11.501Z",
+  "updated_at": "2026-10-31T17:33:50.500Z",
   "applications": [
     {
       "id": "app-04d7669d-9755-404f-8b46-6f390bf41473",
@@ -42,9 +42,9 @@
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
       "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/manifest.json",
       "manifest": {
-        "name": "ES32Lab nas Eleições 2026 - 2",
+        "name": "ES32Lab nas Eleições 2026",
         "developer": "ES Developer",
-        "version": "2.5.13",
+        "version": "2.5.14",
         "version_date": "2026-10-30",
         "description": "Acompanhe dados públicos das Eleições 2026 disponibilizados pelo TSE diretamente na ES32Lab.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/manifest.json",
@@ -53,7 +53,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab-Eleicoes",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-Eleicoes/main/dist/es32lab_eleicoes-full.bin",
-        "full_sha256": "4b990c74ce69d448e9339dbdb85921672c7d3522ab19de35e59856d1b8be4276",
+        "full_sha256": "e6d49d834c319495f88315058f69463ae55a050c19a5869ea10227238554a79d",
         "keywords": [
           "ES32Lab",
           "ESP32",
