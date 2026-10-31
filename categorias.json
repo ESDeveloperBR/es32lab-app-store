@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:54:40.905Z",
+  "updated_at": "2026-10-31T13:13:11.917Z",
   "categories": [
     {
       "name": "Jogos",
@@ -31,6 +31,12 @@
       "description": "Ferramentas de uso diversos utilizando a ES32Lab como hardware.",
       "image_url": null,
       "id": "cat-2bf20289-2029-43a7-b13b-23c12fed125d"
+    },
+    {
+      "name": "Entretenimento",
+      "description": "",
+      "image_url": null,
+      "id": "cat-0f94a15f-4114-474f-bca7-39f686b51045"
     }
   ]
 }
