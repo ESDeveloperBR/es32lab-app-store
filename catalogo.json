@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:30:47.305Z",
+  "updated_at": "2026-11-01T01:14:27.351Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -44,7 +44,7 @@
       "manifest": {
         "name": "Tetris ES32Lab",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-27",
         "description": "Exemplo oficial da LIB ES32Lab com jogo Tetris no display TFT, controlado pelo teclado analogico da placa. Codigo-fonte disponivel para download no botão Repositório.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-manifest.json",
@@ -53,7 +53,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/Tetris/Tetris.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/tetris-full.bin",
-        "full_sha256": "8c4ba985c65b68257ea6ef47a3fa4aa803c30cfd076643e5c83c208ace939c8f",
+        "full_sha256": "bb5f6d4e73fe0f391422f85c12001621db096934d4ce5e5e1179b295b4617bf7",
         "keywords": [
           "ES32Lab",
           "Tetris",
@@ -81,7 +81,7 @@
       "manifest": {
         "name": "Camera no Display TFT",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-27",
         "description": "Exemplo oficial da LIB ES32Lab que exibe imagens da camera OV2640 no display TFT. Codigo-fonte disponivel para download no botão Repositório.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/camera_display_tft-manifest.json",
@@ -90,7 +90,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Camera/Camera-DisplayTFT/Camera-DisplayTFT.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/camera_display_tft-full.bin",
-        "full_sha256": "bc9e96886ab628148dd0609ad034205cdf834b82f2fa0ecc0b8016d66e44c10d",
+        "full_sha256": "1e8002ac6a00dcb800c4a61721753a6a4b8e41b63cdd81193f0db37a3c65e7bf",
         "keywords": [
           "ES32Lab",
           "Camera",
@@ -118,7 +118,7 @@
       "manifest": {
         "name": "ES32Lab Boxe",
         "developer": "ES Developer",
-        "version": "0.10.0",
+        "version": "0.10.1",
         "version_date": "2026-10-28",
         "description": "Exemplo oficial da LIB ES32Lab com jogo de boxe no display TFT, teclado analogico, efeitos sonoros e adversarios com inteligencia artificial. Codigo-fonte disponivel para download no botão Repositório.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/es32lab_boxe-manifest.json",
@@ -127,7 +127,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/ES32LabBoxe/ES32LabBoxe.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/es32lab_boxe-full.bin",
-        "full_sha256": "459610938c9211873c619faf28e7ef89faf66f7e90f066dfae1aa843c770a367",
+        "full_sha256": "5b07b0402bb2f955fe8726dd23ecfbf8984f3283c9dc1c0f53a382b073451575",
         "keywords": [
           "ES32Lab",
           "Boxe",
@@ -157,7 +157,7 @@
       "manifest": {
         "name": "Visualizador de Fotos ES32Lab",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-29",
         "description": "Exemplo oficial da LIB ES32Lab que exibe fotos JPEG do cartao microSD no display TFT e permite navegar entre imagens pelo teclado analogico. Codigo-fonte disponivel para download no botao Repositorio.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/photo_viewer-manifest.json",
@@ -166,7 +166,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Display-TFT/PhotoViewerAnalogKeyboard/PhotoViewerAnalogKeyboard.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/photo_viewer-full.bin",
-        "full_sha256": "8ec2aa316c880a7ea8adeddbe6b60771e5f2b055f5386ef8396a78b042dba9eb",
+        "full_sha256": "f930eecb2520df2b885919f60bbdb5cb821632dd458f0f9e18e76119dea0b3de",
         "keywords": [
           "ES32Lab",
           "Visualizador de Fotos",
@@ -195,7 +195,7 @@
       "manifest": {
         "name": "Frog Adventure ES32Lab",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-29",
         "description": "Exemplo didatico com a LIB oficial ES32Lab: jogo de aventura em tres fases no display TFT, no qual um sapo captura moscas e evita jacares, com teclado analogico e efeitos sonoros. Codigo-fonte disponivel para download no botao Repositorio.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-manifest.json",
@@ -204,7 +204,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/ForgAdventure/FrogAdventure.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/frog_adventure-full.bin",
-        "full_sha256": "6db17e77dd7a93dea81906ee179afdc03712d8faba3e4cc4a0ee02bd7c948c2f",
+        "full_sha256": "e5ab582e8e917cfeaa6489abb3cacaa2073ce7363d4ed8c11f04b7662139b544",
         "keywords": [
           "ES32Lab",
           "Frog Adventure",
@@ -234,7 +234,7 @@
       "manifest": {
         "name": "Snake Game - Minhoquinha ES32Lab",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-29",
         "description": "Exemplo oficial da LIB ES32Lab com o classico jogo da minhoquinha (Snake) no display TFT. Controle pelo teclado analogico, pontuacao, crescimento da cobra e aumento progressivo de velocidade. Codigo-fonte disponivel para download no botao Repositorio.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/snake_game-manifest.json",
@@ -243,7 +243,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/SnakeGame/SnakeGame.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/snake_game-full.bin",
-        "full_sha256": "823da831a4d03ac6903effe65f129455ad825da896d22195a9d5954ebccf292b",
+        "full_sha256": "b43b9ac0e7fb857a16d9357755fd60f1df9581fd6996f06e34be848e0fd3922b",
         "keywords": [
           "ES32Lab",
           "Snake Game",
@@ -272,7 +272,7 @@
       "manifest": {
         "name": "Space Invader ES32Lab",
         "developer": "ES Developer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "version_date": "2026-10-29",
         "description": "Exemplo oficial da LIB ES32Lab com jogo Space Invader no display TFT. Controle a nave pelo teclado analogico, destrua inimigos, avance de fase e acompanhe pontos e vidas, com efeitos sonoros pelo buzzer. Codigo-fonte disponivel para download no botao Repositorio.",
         "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-manifest.json",
@@ -281,7 +281,7 @@
         "website": "https://www.esdeveloper.com.br/",
         "repository": "https://github.com/ESDeveloperBR/ES32Lab/blob/main/examples/Games/SpaceInvader/SpaceInvader.ino",
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/ES32Lab-LIB-Examples/main/dist/space_invader-full.bin",
-        "full_sha256": "002b789256e5eb3b5ac2faafc22af3a48083778a00eaf12f7c1d37e632299cd7",
+        "full_sha256": "30103e94714f69781e00d6119196d822cb6e8f6ebaf7ded87a70b3b98a7f0a9d",
         "keywords": [
           "ES32Lab",
           "Space Invader",
