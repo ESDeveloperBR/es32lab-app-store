@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T02:05:17.783Z",
+  "updated_at": "2026-11-02T17:07:14.812Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -36,7 +36,8 @@
       "featured": false,
       "uses_wifi": true,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "es32lab-nas-eleicoes-2026"
     },
     {
       "id": "app-0c6711ac-b6ee-45b9-b5d1-61971a75adc6",
@@ -73,7 +74,8 @@
       "featured": true,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "tetris-es32lab"
     },
     {
       "id": "app-363779b5-7e55-40db-b4f8-e5f22cb97415",
@@ -110,7 +112,8 @@
       "featured": true,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "camera-no-display-tft"
     },
     {
       "id": "app-d28c92b0-9bee-47ca-bae6-4ed4865b5349",
@@ -149,7 +152,8 @@
       "featured": true,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "es32lab-boxe"
     },
     {
       "id": "app-fa6cf179-16b9-4d54-b5a1-088e2b8d25a0",
@@ -187,7 +191,8 @@
       "featured": false,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "visualizador-de-fotos-es32lab"
     },
     {
       "id": "app-3bbf7644-7f04-4baf-a752-3fe4ca6f186e",
@@ -226,7 +231,8 @@
       "featured": true,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "frog-adventure-es32lab"
     },
     {
       "id": "app-71713918-e4ee-4849-a9a8-9d5d6f1f6ec3",
@@ -264,7 +270,8 @@
       "featured": false,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "snake-game-minhoquinha-es32lab"
     },
     {
       "id": "app-7cac08d6-5053-410c-a870-08392fb04138",
@@ -303,7 +310,8 @@
       "featured": false,
       "uses_wifi": false,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "space-invader-es32lab"
     },
     {
       "id": "app-fadb2286-3ce0-4f71-92f2-2e08d0ccb4ab",
@@ -350,7 +358,8 @@
       "featured": false,
       "uses_wifi": true,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null
+      "details_url": null,
+      "slug": "es32lab-arcade"
     }
   ]
 }
