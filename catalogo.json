@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T13:42:23.006Z",
+  "updated_at": "2026-11-03T18:41:24.601Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -354,7 +354,7 @@
         "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
         "cat-0f94a15f-4114-474f-bca7-39f686b51045"
       ],
-      "enabled": true,
+      "enabled": false,
       "featured": false,
       "uses_wifi": true,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",

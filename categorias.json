@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:13:11.917Z",
+  "updated_at": "2026-11-03T18:40:20.542Z",
   "categories": [
     {
       "name": "Jogos",
@@ -9,22 +9,22 @@
       "id": "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3"
     },
     {
-      "name": "Câmera",
-      "description": "Aplicações com uso de câmera na ES32Lab.",
-      "image_url": null,
-      "id": "cat-c49e641a-7e87-4916-9978-c725886e8f7f"
-    },
-    {
       "name": "Exemplos - LIB ES32Lab",
       "description": "Aplicações de exemplo da biblioteca ES32Lab para aprender a utilizar e testar os recursos da placa.",
       "image_url": null,
       "id": "cat-be7903c2-91e3-4509-8a43-f18f88534390"
     },
     {
-      "name": "IoT",
-      "description": "Firmware com aplicações IoT",
+      "name": "Câmera",
+      "description": "Aplicações com uso de câmera na ES32Lab.",
       "image_url": null,
-      "id": "cat-aee8b252-b4e9-4349-b6da-73dc2c06c08f"
+      "id": "cat-c49e641a-7e87-4916-9978-c725886e8f7f"
+    },
+    {
+      "name": "Entretenimento",
+      "description": "",
+      "image_url": null,
+      "id": "cat-0f94a15f-4114-474f-bca7-39f686b51045"
     },
     {
       "name": "Ferramentas",
@@ -33,10 +33,10 @@
       "id": "cat-2bf20289-2029-43a7-b13b-23c12fed125d"
     },
     {
-      "name": "Entretenimento",
-      "description": "",
+      "name": "IoT",
+      "description": "Firmware com aplicações IoT",
       "image_url": null,
-      "id": "cat-0f94a15f-4114-474f-bca7-39f686b51045"
+      "id": "cat-aee8b252-b4e9-4349-b6da-73dc2c06c08f"
     }
   ]
 }
