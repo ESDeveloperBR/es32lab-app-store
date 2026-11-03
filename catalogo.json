@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:07:14.812Z",
+  "updated_at": "2026-11-03T13:42:23.006Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -36,7 +36,7 @@
       "featured": false,
       "uses_wifi": true,
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
-      "details_url": null,
+      "details_url": "https://www.esdeveloper.com.br/eleicoes-2026-na-es32lab",
       "slug": "es32lab-nas-eleicoes-2026"
     },
     {
