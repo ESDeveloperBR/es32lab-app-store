@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:52:17.006Z",
+  "updated_at": "2026-11-11T14:13:43.063Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -375,7 +375,7 @@
         "thumbnail_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-thumb.jpg",
         "video_url": null,
         "website": "https://www.esdeveloper.com.br/",
-        "repository": "https://github.com/ESDeveloperBR/bang_bang_game",
+        "repository": null,
         "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-full.bin",
         "full_sha256": "e091b91bf5a412d6e15fad2f6a5637be77b9518c2fadacdecf7f337fad8bc971",
         "keywords": [
