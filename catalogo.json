@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:41:24.601Z",
+  "updated_at": "2026-11-11T13:52:17.006Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -360,6 +360,45 @@
       "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
       "details_url": null,
       "slug": "es32lab-arcade"
+    },
+    {
+      "slug": "bang-bang-the-bounty-hunter",
+      "id": "app-c8e11e58-6048-401b-aafc-3caf6756813d",
+      "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/manifest.json",
+      "manifest": {
+        "name": "Bang Bang - The Bounty Hunter",
+        "developer": "ES Developer",
+        "version": "1.2.3",
+        "version_date": "2026-11-10",
+        "description": "Jogo de tiro ambientado no Velho Oeste, desenvolvido para explorar recursos graficos, animacoes RGB565 e audio da ES32Lab.",
+        "manifest_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/manifest.json",
+        "thumbnail_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-thumb.jpg",
+        "video_url": null,
+        "website": "https://www.esdeveloper.com.br/",
+        "repository": "https://github.com/ESDeveloperBR/bang_bang_game",
+        "full_url": "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-full.bin",
+        "full_sha256": "e091b91bf5a412d6e15fad2f6a5637be77b9518c2fadacdecf7f337fad8bc971",
+        "keywords": [
+          "ES32Lab",
+          "ESP32",
+          "Bang Bang",
+          "Jogo",
+          "Arcade",
+          "Faroeste",
+          "RGB565",
+          "Wi-Fi"
+        ],
+        "uses_wifi": false
+      },
+      "category_ids": [
+        "cat-f4b06849-6168-4e05-a293-b31cc7a9aeb3",
+        "cat-0f94a15f-4114-474f-bca7-39f686b51045"
+      ],
+      "enabled": true,
+      "featured": true,
+      "uses_wifi": false,
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "details_url": null
     }
   ]
 }
