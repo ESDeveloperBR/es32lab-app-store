@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T17:36:14.419Z",
+  "updated_at": "2026-11-17T21:27:51.787Z",
   "applications": [
     {
       "id": "app-4dbab56c-2080-4235-8a9e-a8559657b964",
@@ -111,7 +111,7 @@
       "enabled": true,
       "featured": true,
       "uses_wifi": false,
-      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-plus",
+      "recommended_product_url": "https://www.esdeveloper.com.br/es32lab-cam",
       "details_url": "https://www.esdeveloper.com.br/como-conectar-camera-ov2640-es32lab-display-tft",
       "slug": "camera-no-display-tft"
     },
